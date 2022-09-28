@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Zadic247
+- 👀 I’m interested in frontend development
+- 🌱 I’m currently learning html,css and javascript
